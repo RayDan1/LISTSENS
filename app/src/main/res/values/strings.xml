@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LISTSENS</string>
+    <string name="sensores_disponibles">Sensores Disponibles</string>
+    <string name="verificar">Verificar</string>
+</resources>
